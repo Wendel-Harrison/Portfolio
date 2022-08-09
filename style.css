@@ -395,10 +395,12 @@
         margin-top: 1rem;
         display: flex;
         justify-content: center;
+        
     }
 
     footer p {
         font-size: 1.6rem;
         line-height: 2rem;
         color: var(--text-color);
+        text-align: center;
     }
