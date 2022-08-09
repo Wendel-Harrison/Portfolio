@@ -1,0 +1,1 @@
+alert("Em breve estarei atualizando a página e todos os botões estarão funcionando")
